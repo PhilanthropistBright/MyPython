@@ -24,3 +24,4 @@ while True:
     msg='欢迎访问菜鸟教程！'+ "\r\n"
     clientsocket.send(msg.encode('utf-8'))
     clientsocket.close()
+
