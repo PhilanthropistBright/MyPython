@@ -1,10 +1,129 @@
-{
-    "retcode": "1",
-    "appid": "wxf8b4f85f3a794e77",
-    "partnerid": "partnerid",
-    "prepayid": "prepayid",
-    "noncestr": "Brett",
-    "timestamp": "Brett",
-    "package": "Brett",
-    "sign": "Brett"
-}
+[
+    {
+        "openType": 1,
+        "subList": [],
+        "buttonId": "1006",
+        "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/1006.png",
+        "buttonName": "签到管理",
+        "linkUrl": "",
+        "buttonKey": "1006"
+    },
+    {
+        "openType": 0,
+        "subList": [
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "90185428",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "我发起的工单",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonList.action%3Ffaid%3D828020",
+                "buttonKey": "90185428"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "90185438",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "待我补充数据工单",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonList.action%3Ffaid%3D828060",
+                "buttonKey": "90185438"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "90185429",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "待我执行工单",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonList.action%3Ffaid%3D828030",
+                "buttonKey": "90185429"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "90185439",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "待我重新执行工单",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonList.action%3Ffaid%3D828070",
+                "buttonKey": "90185439"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "90185430",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "待我确认工单",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonList.action%3Ffaid%3D828040",
+                "buttonKey": "90185430"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "90185440",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "待我重新确认工单",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonList.action%3Ffaid%3D828080",
+                "buttonKey": "90185440"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "90185431",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "待我检查关闭工单",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonList.action%3Ffaid%3D828050",
+                "buttonKey": "90185431"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "82801",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "新建工单",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2Fcommonapply.action%3Fmkid%3D82800",
+                "buttonKey": "82801"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "82802",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "草稿查询",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonList.action%3Ffaid%3D828000%26dhmkid%3D82800%26dhlbid%3D0%26dhid%3D3",
+                "buttonKey": "82802"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "82803",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "工单查询",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonList.action%3Ffaid%3D828001%26dhmkid%3D82800%26dhlbid%3D0%26dhid%3D4",
+                "buttonKey": "82803"
+            },
+            {
+                "openType": 0,
+                "subList": [],
+                "buttonId": "82804",
+                "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+                "buttonName": "工单审核",
+                "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2FcommonShList.action%3Ffaid%3D828002%26dhmkid%3D82800%26dhlbid%3D0%26dhid%3D5",
+                "buttonKey": "82804"
+            }
+        ],
+        "buttonId": "82800",
+        "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/82800.png",
+        "buttonName": "维护工单",
+        "linkUrl": "http://oa.vjsp.cn:80/ucLoginDo.action?crmGlobalCode=VJSPOA&token=W02Pan3NJPvKHTvP2TLTGTp0FdGES7OW30FuZ9IPKK5fLS7Pr35K8SGC517DsSmTpKo42V5nWRcHAM2mdAriN0FXHqTt0F94XHcKKL50F2adKcOFB4KeLMvWCqjSC0FqbMr0FQ36TqTmq70F70F30FG1sSM4RPaKZGpTEBJ0FY6WDWUtmE5q1NR&url=%2Fcommon%2Fcommonapply.action%3Fmkid%3D82800",
+        "buttonKey": "82800"
+    },
+    {
+        "openType": 1,
+        "subList": [],
+        "buttonId": "1008",
+        "buttonIcon": "http://static.vjsp.cn/center/sso/static/images/buttonMkIcon/1008.png",
+        "buttonName": "moreButton",
+        "linkUrl": "",
+        "buttonKey": "1008"
+    }
+]
