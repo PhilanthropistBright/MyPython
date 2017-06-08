@@ -18,4 +18,4 @@ class MyClass1:
 
 y = MyClass1(10,20)
 
-print(y.sum,y.su1)
+print(y.sum,y.su1,y.su2)
